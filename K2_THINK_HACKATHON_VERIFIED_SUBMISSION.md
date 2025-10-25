@@ -1,7 +1,7 @@
 # K2 Think Hackathon Submission
-**Team Name: [Your Team Name]**  
+**Team Name: Mother Russia**  
 **Demo Name: K2 Swarm**  
-**Contact: [Your Contact Number]**
+**Contact: +91-8146549211**
 
 ---
 
@@ -55,20 +55,16 @@ We need K2 Think API access with sufficient rate limits for parallel execution, 
 ### Section 6: Team Info
 
 **Team Members:**
-- [Name] - Full-stack Developer
+- Konstantin Dyachenko - Full Stack Developer
   - Role: K2 Integration Lead
   - Experience: Node.js, GitHub API, Hive Mind codebase
   
-- [Name] - AI/ML Engineer
-  - Role: Model Integration
-  - Experience: LLM APIs, prompt engineering
-  
-- [Name] - DevOps Engineer
-  - Role: Infrastructure & Scaling
-  - Experience: Process management, system optimization
+- Kaivalya Anand Pandey - Data Scientist
+  - Role: Model Integration & Data Analysis
+  - Experience: LLM APIs, prompt engineering, data science
 
-**Main Contact:** [Phone Number]  
-**Email:** [Team Email]
+**Main Contact:** +91-8146549211  
+**Email:** kaivalya.pandey@gmail.com
 
 **Relevant Links:**
 1. https://github.com/deep-assistant/hive-mind (Source code repository)
