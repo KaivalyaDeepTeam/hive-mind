@@ -1,6 +1,5 @@
 # K2 Think Hackathon Submission
-**Team Name: Mother Russia**  
-**Demo Name: K2 Swarm**  
+**Team Name: Deep Assistant**  
 **Contact: +91-8146549211**
 
 ---
