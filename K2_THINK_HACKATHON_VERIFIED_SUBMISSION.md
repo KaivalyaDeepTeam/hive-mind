@@ -1,5 +1,5 @@
 # K2 Think Hackathon Submission
-**Team Name: Deep Assistant**  
+**Team Name: Svetozar**  
 **Contact: +91-8146549211**
 
 ---
