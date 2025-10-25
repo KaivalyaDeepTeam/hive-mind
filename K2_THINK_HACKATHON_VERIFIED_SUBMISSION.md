@@ -47,7 +47,7 @@ In 48 hours we will add support for K2 Think to Hive Mind using Hive Mind itself
 
 ### Section 5: Support Needed (28 words)
 
-We need K2 Think API access with sufficient rate limits for parallel execution, CLI integration documentation, and technical guidance for optimizing concurrent model instances within our Node.js architecture.
+We need K2 Think API access with sufficient rate limits for parallel execution, CLI integration documentation, and technical guidance for optimizing concurrent model for Hive Mind use case.
 
 ---
 
